@@ -1,0 +1,19 @@
+name: jaseb_userbot_telegram
+homepage: https://youtube.com/@azkadev
+repository: https://github.com/azkadev
+issue_tracker: https://github.com/azkadev/azkadev
+documentation: https://youtube.com/@azkadev
+version: 0.0.0
+publish_to: none
+environment:
+  sdk: '>=2.19.4 <4.0.0' 
+
+dependencies:
+  telegram_client: ^0.4.27
+  path: ^1.8.3
+  galaxeus_lib: ^0.0.74
+
+dev_dependencies:
+  lints: ^2.1.0
+  # test: ^1.24.0
+  packagex: ^0.0.28
