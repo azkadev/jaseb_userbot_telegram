@@ -1,1 +1,0 @@
-api_id=26806445 api_hash=43832bf7fe78a0b6f5b2bf54ee1fb651 owner_chat_id=6329894966 dart run bin/jaseb_userbot_telegram.dart
