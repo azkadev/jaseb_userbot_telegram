@@ -1,12 +1,15 @@
-# Jaseb Userbot Telegram
+IyBKYXNlYiBVc2VyYm90IFRlbGVncmFtCgpKYXNlYiBVc2VyYm90IFRlbGVn
+cmFtIEJhc2ljIG9wZW4gc291cmNlLCBvcGVuc291cmNlIGNvZGUgZ3JhdGlz
+IHVudHVrIGthbXUgeWFuZyBpbmdpbiBzZWJhciBwZXNhbiB0YW5wYSBiZWxp
+CgojIyMgSW5mb3JtYXRpb24KClNvdXJjZSBjb2RlIGluaSBiYXNpYyBqYWRp
+IGhhbnlhIGNvbnRvaCBzaW1wbGUgYmVsdW0gYWRhIGhhbmRsZSAobWVuZ3Vy
+YW5naSBsaW1pdCkgYWdhciBha3VuIHRpZGFrIG11ZGFoIGRlYWsgZGFuIGxp
+bWl0LCBqaWthIGthbXUgaW5naW4geWFuZyBsZWJpaCBrYW11IGJpc2EgbWVu
+Z2d1bmFrYW4gYXBsaWthc2kgCltTaG9ydGN1dCBDaGVhdCBTaGVldF0oKSAv
+IFtHTFggQm90XSgpIC8gTWVtYmVsaSBEaXNpbmkgW0F6a2FkZXYgQm90XSho
+dHRwczovL3QubWUvYXprYWRldmJvdCkgbXVsYWkgMjVrIC8gMjAwayBidWxh
+bgoKVmlkZW86CgohW10oKQ==
 
-Jaseb Userbot Telegram Basic open source, opensource code gratis untuk kamu yang ingin sebar pesan tanpa beli
-
-### Information
-
-Source code ini basic jadi hanya contoh simple belum ada handle (mengurangi limit) agar akun tidak mudah deak dan limit, jika kamu ingin yang lebih kamu bisa menggunakan aplikasi 
-[Shortcut Cheat Sheet]() / [GLX Bot]() / Membeli Disini [Azkadev Bot](https://t.me/azkadevbot) mulai 25k / 200k bulan
-
-Video:
-
-![]()
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
